@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kivo City Cinematics"
+  short_description: "Create original open-world city and character films"
+  default_prompt: "Use $kivo-city-cinematics to turn my city, locations and original character into a concept map and a short cinematic through Kivo Studio MCP."
